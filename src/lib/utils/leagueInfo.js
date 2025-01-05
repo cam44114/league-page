@@ -31,9 +31,9 @@ export const managers = [
       "photo": "/managers/camphoto.jpg", // square ratio recommended (no larger than 500x500)
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
-        name: "Rauseo", // Can be anything (usually your rival's name)
-        link: 6, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/name.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        name: "Dyszintary", // Can be anything (usually your rival's name)
+        link: null, // manager array number within this array, or null to link back to all managers page
+        image: "/managers/zyn.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 9221, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -49,7 +49,7 @@ export const managers = [
       "location": "Brighton", // (optional)
       "favoriteTeam": "ne",
       "bio": "",
-      "photo": "/managers/Shane_2.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Shane_3.jpg", // square ratio recommended (no larger than 500x500)
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "Trades", // Can be anything (usually your rival's name)
@@ -91,12 +91,12 @@ export const managers = [
       "location": "Beverly", // (optional)
       "favoriteTeam": "ne",
       "bio": "Bad Boy of Fantasy Football",
-      "photo": "/managers/", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/pumpkinboy.jpg", // square ratio recommended (no larger than 500x500)
       "mode": "Dynasty", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "Joey Camilo", // Can be anything (usually your rival's name)
         link: 6, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/pumpkinboy.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 11631, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -112,7 +112,7 @@ export const managers = [
       "location": "Malden", // (optional)
       "favoriteTeam": "ne",
       "bio": "Beef Moulton",
-      "photo": "/managers/", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/jake.jpg", // square ratio recommended (no larger than 500x500)
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "Joey Camilo", // Can be anything (usually your rival's name)
