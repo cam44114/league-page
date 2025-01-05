@@ -47,6 +47,7 @@ export const managers = [
       "managerID": "198135417243963392",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Shane Doherty",
       "location": "Brighton", // (optional)
+      "favoriteTeam": "ne",
       "bio": "",
       "photo": "/managers/Shane_2.jpg", // square ratio recommended (no larger than 500x500)
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -67,6 +68,7 @@ export const managers = [
       "managerID": "782057626476384256",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Jared Doherty",
       "location": "Tewksbury", // (optional)
+      "favoriteTeam": "jax",
       "bio": "Jared's Jared",
       "photo": "/managers/", // square ratio recommended (no larger than 500x500)
       "mode": "Dynasty", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -87,6 +89,7 @@ export const managers = [
       "managerID": "783439181090476032",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Anthony Porreca",
       "location": "Beverly", // (optional)
+      "favoriteTeam": "ne",
       "bio": "Bad Boy of Fantasy Football",
       "photo": "/managers/", // square ratio recommended (no larger than 500x500)
       "mode": "Dynasty", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
