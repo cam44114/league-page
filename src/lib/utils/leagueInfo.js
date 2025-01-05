@@ -47,7 +47,7 @@ export const managers = [
       "name": "Shane Doherty",
       "location": "Brighton", // (optional)
       "bio": "",
-      "photo": "/managers/", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Shane.png", // square ratio recommended (no larger than 500x500)
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "Trades", // Can be anything (usually your rival's name)
